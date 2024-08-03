@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36881568311",
+    "project_id": "authe-17305",
+    "storage_bucket": "authe-17305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36881568311:android:e6b5215730baff1cbb25b2",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdg2luod_SZGk6uQcABo-gH77XhUWFc-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
